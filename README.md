@@ -1,1 +1,1 @@
-[http://www.autohotkey.com/](AutoHotkey) scripts I personally use.
+[AutoHotkey](http://www.autohotkey.com/) scripts I personally use.
